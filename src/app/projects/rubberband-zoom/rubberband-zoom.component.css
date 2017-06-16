@@ -1,0 +1,17 @@
+canvas {
+  margin: 20px 20px 0 20px;
+  border: solid 1px #aaaaaa;
+  cursor: crosshair;
+  padding: 0;
+}
+
+#btnReset {
+  margin-left: 20px;
+}
+
+#rubberBand {
+  position: absolute;
+  border: solid 2px #1ad8ff;
+  cursor: crosshair;
+  display: none;
+}
